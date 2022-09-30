@@ -2,8 +2,6 @@
 
 <br>
 
-Repositório criada para usar como instruções de uso do Stryker Mutator
-
 Documentação oficial: https://stryker-mutator.io/
 
 <br>
