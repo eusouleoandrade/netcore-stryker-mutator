@@ -58,6 +58,8 @@ Para a maioria dos projetos, nenhuma configuração é necessária. Basta execut
 dotnet stryker
 ```
 
+<br>
+
 ~/Source/Personal/netcore-todolist-api-template/Solution/Tests.Unit
 
 ```
