@@ -58,6 +58,12 @@ Para a maioria dos projetos, nenhuma configuração é necessária. Basta execut
 dotnet stryker
 ```
 
+~/Source/Personal/netcore-todolist-api-template/Solution/Tests.Unit
+
+```
+dotnet stryker -p /Users/leandroandrade/Source/Personal/netcore-todolist-api-template/Solution/Core.Application/Core.Application.csproj   
+```
+
 <br>
 <hr>
 <br>
