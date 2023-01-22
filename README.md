@@ -58,7 +58,6 @@ Para a maioria dos projetos, nenhuma configuração é necessária. Basta execut
 dotnet stryker
 
 dotnet stryker -o
-
 ```
 
 <br>
