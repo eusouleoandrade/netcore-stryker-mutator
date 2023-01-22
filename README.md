@@ -56,6 +56,9 @@ Para a maioria dos projetos, nenhuma configuração é necessária. Basta execut
 
 ```
 dotnet stryker
+
+dotnet stryker -o
+
 ```
 
 <br>
@@ -63,7 +66,9 @@ dotnet stryker
 ~/Source/Personal/netcore-todolist-api-template/Solution/Tests.Unit
 
 ```
-dotnet stryker -p /Users/leandroandrade/Source/Personal/netcore-todolist-api-template/Solution/Core.Application/Core.Application.csproj   
+dotnet stryker -p /Users/leandroandrade/Source/Personal/netcore-todolist-api-template/Solution/Core.Application/Core.Application.csproj
+
+dotnet stryker -p /Users/leandroandrade/Source/Personal/netcore-todolist-api-template/Solution/Core.Application/Core.Application.csproj -o
 ```
 
 <br>
